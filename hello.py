@@ -1,0 +1,1 @@
+print("Hello, this is assignment 1 for day 1")
